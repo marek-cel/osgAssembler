@@ -1,0 +1,8 @@
+Package: osgAssembler
+Version: 0.1
+Architecture: amd64
+Maintainer: Marek M. Cel <marekcel@marekcel.pl>
+Depends: libopenscenegraph160, libopenthreads21, libqt5core5a, libqt5gui5, libqt5network5, libqt5opengl5, libqt5svg5, libqt5widgets5, libqt5xml5
+Installed-Size: 1
+Homepage: http://marekcel.pl
+Description: OpenSceneGraph 3D models assembler tool. This tool generates OpenSceneGraph compliant 3D models assembled from submodels like control surfaces, landing gear elements, etc. It can also enrich such a model with generic features like fully articulated helicopter rotor, runways and taxiways lighting systems, visual approach aids.

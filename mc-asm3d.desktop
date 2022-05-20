@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=0.1
+Name=Assembler 3D
+GenericName=Assembler 3D
+Exec=mc-asm3d
+Terminal=false
+Categories=
+Comment=
+Keywords=
+Icon=mc-asm3d
